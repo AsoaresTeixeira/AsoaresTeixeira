@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://png.pngtree.com/thumb_back/fh260/background/20190220/ourmid/pngtree-purple-concise-background-hd-image_5494.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> Ola, eu sou Alvaro, gosto muito de me desafiar na área de programação. atualmente estou fazendo faculdade e estou na procura de um estagio .</p>&nbsp;
+<p align="center"> Ola, eu sou Alvaro, gosto muito de me desafiar na área de programação. atualmente estou fazendo faculdade .</p>&nbsp;
 
 
 <div align="center"   style="margin-bottom:100px>
